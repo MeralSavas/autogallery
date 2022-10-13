@@ -4,7 +4,7 @@ const Auto = () => {
   return (
     <>
       <div className="container">
-        <h1>Albums</h1>
+        <h1>Vintage Auto</h1>
         <div className="box">
           {data.map((item) => {
             return (
