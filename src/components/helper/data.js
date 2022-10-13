@@ -1,37 +1,37 @@
 const data = [
   {
-    photographer: "Phyo Hein Kyaw",
+    photographer: "Guy Dugas  ",
     src: {
       large:
-        "https://images.pexels.com/photos/2523644/pexels-photo-2523644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://cdn.pixabay.com/photo/2017/08/23/01/00/packard-2671208__340.jpg",
     },
   },
   {
-    photographer: "Max Vakhtbovych",
+    photographer: "Paul Brennan",
     src: {
       large:
-        "https://images.pexels.com/photos/6032280/pexels-photo-6032280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://cdn.pixabay.com/photo/2016/09/12/12/58/vintage-car-1664115_960_720.jpg",
     },
   },
   {
-    photographer: "Komank Suardana",
+    photographer: "Ford Classic ",
     src: {
       large:
-        "https://images.pexels.com/photos/3067621/pexels-photo-3067621.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://cdn.pixabay.com/photo/2019/04/10/05/42/ford-4116273_960_720.jpg",
     },
   },
   {
-    photographer: "Caroline Cagnin",
+    photographer: "VW Bulli",
     src: {
       large:
-        "https://images.pexels.com/photos/2007400/pexels-photo-2007400.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://cdn.pixabay.com/photo/2016/11/29/10/01/vw-bulli-1868890__340.jpg",
     },
   },
   {
-    photographer: "Tom Fisk",
+    photographer: "Hudson 1921 ",
     src: {
       large:
-        "https://images.pexels.com/photos/3285719/pexels-photo-3285719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://cdn.pixabay.com/photo/2013/05/20/04/57/hudson-112217__340.jpg",
     },
   },
   {
@@ -42,17 +42,17 @@ const data = [
     },
   },
   {
-    photographer: "Natã Romualdo",
+    photographer: "Bugatti 1932 ",
     src: {
       large:
-        "https://images.pexels.com/photos/4606719/pexels-photo-4606719.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://cdn.pixabay.com/photo/2013/06/05/02/00/bugatti-116491__340.jpg",
     },
   },
   {
-    photographer: "Daniel Maforte",
+    photographer: "Muscle Car",
     src: {
       large:
-        "https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://cdn.pixabay.com/photo/2016/01/09/17/39/muscle-car-1130635__340.jpg",
     },
   },
   {
