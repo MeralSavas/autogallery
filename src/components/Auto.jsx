@@ -4,21 +4,21 @@ const Auto = () => {
   return (
     <>
       <div className="container">
-        <div className="text">
-          <h1>Vintage Auto</h1>
-        </div>
+        <h1>Vintage Auto</h1>
+
         <div className="box">
           {data.map((item) => {
             return (
               <div className="box1">
                 <figure className="picture">
-                  <img src={item.src.large} alt="" />
+                  <img src={item.src.large} alt="img" />
                 </figure>
                 <p>{item.photographer}</p>
               </div>
             );
           })}
         </div>
+        <p className="name">-- Product by Meral Savas --</p>
       </div>
     </>
   );
