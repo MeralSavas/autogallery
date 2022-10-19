@@ -42,7 +42,7 @@ improve coding skills within HTML & CSS & JS & ReactJS.
 
 use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-🔗 To see live version 🎯https://tal58.github.io/image-gallery-react/
+🔗 To see live version 🎯
 
 
 ☺ Happy Coding ✍
