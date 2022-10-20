@@ -2,7 +2,7 @@
 
 ## Check The Live Website :arrow_right: [Live Website](https://auto-gallery.netlify.app)
 ## Visualization of the Website
-![Form](./Documents/video/video_1.gif)
+![Form](./gallery.gif)
 
 ## Description
 Project aims to create a image gallery app using React JavaScript Library .
