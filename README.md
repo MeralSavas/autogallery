@@ -51,7 +51,7 @@ use git commands (push, pull, commit, add etc.) and Github as Version Control Sy
 
 
 
-![Snapshot](./Documents/video/Capto)
+![Snapshot](./Documents/video/video_1)
 
 
 ☺ Happy Coding ✍
