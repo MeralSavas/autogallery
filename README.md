@@ -58,7 +58,7 @@ use git commands (push, pull, commit, add etc.) and Github as Version Control Sy
 
 
 
-🌐 The desktop and mobile versions of the web page are as follows;🧭
+
 
 
 
