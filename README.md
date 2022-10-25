@@ -7,7 +7,7 @@
 
 ## Project Skeleton
 001-Tour-Places(folder)
-|
+```|
 |----readme.md       
 |----images       
 SOLUTION
@@ -24,7 +24,7 @@ SOLUTION
 │    ├── index.js
 │    └── index.css
 ├── package.json
-└── yarn.lock
+└── yarn.lock```
 Expected Outcome
 Snapshot
 
