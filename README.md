@@ -6,8 +6,8 @@
 ![Form](./gallery.gif)
 
 ## Project Skeleton
+```
 001-Tour-Places(folder)
-```|
 |----readme.md       
 |----images       
 SOLUTION
@@ -24,8 +24,10 @@ SOLUTION
 │    ├── index.js
 │    └── index.css
 ├── package.json
-└── yarn.lock```
-Expected Outcome
+└── yarn.lock
+```
+
+## Expected Outcome
 Snapshot
 
 ## Objective
@@ -68,7 +70,7 @@ use git commands (push, pull, commit, add etc.) and Github as Version Control Sy
 ![Snapshot](./gallery.gif)
 
 
-☺ Happy Coding ✍
+# ☺ Happy Coding ✍
 
 
 
